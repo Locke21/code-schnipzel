@@ -2,7 +2,7 @@
 Just try some new stuff in web-developement to improve my skills. 
     
     
-  try and error...
+  trial and error...
 
 <h3>languages</h3>
 <ul>
