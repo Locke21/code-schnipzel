@@ -1,2 +1,14 @@
 # code-schnipzel
-try and error..
+Just try some new stuff in web-developement to improve my skills. 
+    
+    
+  try and error...
+
+#languages
+<ul>
+    <li><a href="https://angularjs.org/">JavaScript (AngularJS-Framework)</a></li>
+    <li>HTML5</li>
+    <li>CSS (bootstrap and font-awesome)</li>
+</ul>
+    
+  
